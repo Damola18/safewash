@@ -209,6 +209,14 @@ section{
     position: relative;
     top:70px;
 }
+.testimonial-card img{
+    position: relative;
+    left: 0%;
+}
+.testimonial-card p.name{
+    font-size:12px;
+    color:#3DA2C5
+}
 .testimonial-card .profile{
     width: 100px;
     height: 100px;
@@ -248,7 +256,6 @@ section{
 .copyright-page{
     width: 1440px;
     height: 54px;
-    line-height: ;
     position: relative;
     background: #21A4C4;
     top:800px;
@@ -401,4 +408,7 @@ section{
 #notable-features{
     position: relative;
     top:100px;
+}
+.list-styled li{
+    font-size: 12px;;
 }
